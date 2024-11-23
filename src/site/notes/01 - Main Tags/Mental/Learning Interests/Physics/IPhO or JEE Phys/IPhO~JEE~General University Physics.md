@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/physics/i-ph-o-or-jee-phys/i-ph-o-jee-general-university-physics/"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/physics/i-ph-o-or-jee-phys/i-ph-o-jee-general-university-physics/","created":"2024-10-11T12:57:27.542+05:30","updated":"2024-10-11T00:32:39.000+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/Physics/Physics\|Physics]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-10-11T12:57:27.400+05:30","updated":"2024-11-23T01:26:27.415+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Opportunities/Opportunities\|Opportunities]]
@@ -64,6 +64,7 @@ Social work grants fund initiatives aimed at addressing specific global issues, 
 - [The Included VC Fellowship](https://included.vc/) - The Included VC Fellowship is a fully funded, global, 5-month program providing diverse individuals with VC education and mentorship. It requires a 15+ hour weekly commitment and targets aspiring VCs from non-traditional backgrounds. Applications close on August 12, 2024.
 - [Interact](https://joininteract.com/) - Interact is a global community for mission-driven technologists aged 18-23. It offers a fully-sponsored summer retreat in Northern California, along with discussion groups, funded research forums, and frequent online events. Founded in 2012, it supports social impact and collaborative growth.
 - [Rise](https://www.risefortheworld.org/) - Rise, a Schmidt Futures and Rhodes Trust initiative, supports promising 15-17-year-olds with scholarships, mentorship, and career development to address global issues, fostering a lifetime of service and innovation.
+- [[01 - Main Tags/Mental/Career/Opportunities/Nautilus\|Nautilus]]
 
 ## Competitions
 

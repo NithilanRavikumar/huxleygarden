@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/philosophical-and-spiritual/travel/adventure-calls-me-travel-bucket-list/"}
+{"dg-publish":true,"permalink":"/01-main-tags/philosophical-and-spiritual/travel/adventure-calls-me-travel-bucket-list/","created":"2024-10-11T12:57:27.557+05:30","updated":"2024-10-23T23:07:24.260+05:30"}
 ---
 
 [[01 - Main Tags/Philosophical and Spiritual/Travel/Travel\|Travel]]

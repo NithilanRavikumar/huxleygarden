@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/korean-chicken-popcorn-with-rice/"}
+{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/korean-chicken-popcorn-with-rice/","created":"2024-10-11T12:57:27.580+05:30","updated":"2024-10-11T00:30:52.000+05:30"}
 ---
 
 [[01 - Main Tags/Physical/Diet/Recipes/Recipes\|Recipes]]

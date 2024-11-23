@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/simple-grilled-chicken-breast/"}
+{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/simple-grilled-chicken-breast/","created":"2024-10-11T12:57:27.585+05:30","updated":"2024-10-11T00:31:12.000+05:30"}
 ---
 
 [[01 - Main Tags/Physical/Diet/Recipes/Recipes\|Recipes]]

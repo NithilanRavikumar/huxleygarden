@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/ai/misc-ai-shit/open-ai-o1-straw-berry/"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/ai/misc-ai-shit/open-ai-o1-straw-berry/","created":"2024-10-11T12:57:27.457+05:30","updated":"2024-10-11T00:35:03.000+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/CS/AI/AI\|AI]]

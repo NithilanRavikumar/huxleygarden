@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-10-11T12:57:27.606+05:30","updated":"2024-10-12T00:46:03.000+05:30"}
 ---
 
 This is the only game, that is; life. 
