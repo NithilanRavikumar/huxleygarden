@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/books/ldv-by-walter-isaacson-highlights/","created":"2024-11-23T01:30:34.634+05:30","updated":"2024-11-23T21:24:04.010+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/books/ldv-by-walter-isaacson-highlights/","created":"2024-11-23T01:30:34.634+05:30","updated":"2024-11-24T15:15:38.396+05:30"}
 ---
 
+[[01 - Main Tags/Mental/Learning Interests/Books/Books\|Books]]
 **Page 1**  
 ability to combine art and science, made iconic by his drawing of a perfectly proportioned man spread-eagle inside a circle and square, known as Vitruvian Man, made him history’s most creative genius.
 
