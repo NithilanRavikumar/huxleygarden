@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/ipo-grind/other-rel-pages/my-notes-from-pmooc-uo-ec/","created":"2024-10-11T12:57:27.509+05:30","updated":"2024-10-11T00:33:30.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/ipo-grind/other-rel-pages/my-notes-from-pmooc-uo-ec/","created":"2024-11-18T16:47:41.708+05:30","updated":"2024-10-11T00:33:30.000+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/IPO Grind/IPO (Philosophy)\|IPO (Philosophy)]]

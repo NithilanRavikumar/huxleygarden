@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/korean-style-coating-sauce-with-frank-s-red-hot/","created":"2024-10-11T12:57:27.581+05:30","updated":"2024-10-11T00:30:57.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/physical/diet/recipes/korean-style-coating-sauce-with-frank-s-red-hot/","created":"2024-11-18T16:47:46.384+05:30","updated":"2024-10-11T00:30:57.000+05:30"}
 ---
 
 [[01 - Main Tags/Physical/Diet/Recipes/Recipes\|Recipes]]

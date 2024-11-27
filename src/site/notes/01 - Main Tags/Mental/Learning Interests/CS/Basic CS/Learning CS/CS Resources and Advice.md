@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/basic-cs/learning-cs/cs-resources-and-advice/","created":"2024-10-11T12:57:27.479+05:30","updated":"2024-10-11T00:34:32.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/basic-cs/learning-cs/cs-resources-and-advice/","created":"2024-11-18T16:47:39.896+05:30","updated":"2024-10-11T00:34:32.000+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/CS/Basic CS/Learning CS/Learning CS\|Learning CS]]

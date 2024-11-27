@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","created":"2024-11-25T21:48:13.698+05:30","updated":"2024-11-26T18:02:49.655+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","created":"2024-11-27T11:52:41.596+05:30","updated":"2024-11-27T12:03:28.596+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Career\|Career]]
@@ -117,9 +117,5 @@ Over the past few months, I’ve taken a polymathic approach to learning and wor
 
 ---
 
-## **Personal Interests**
-- Passionate about theoretical physics, astrophysics, behavioral economics, and neuroscience.
-- Enjoys reading diverse topics, including futuristic technology (Ray Kurzweil) and niche subjects like wine investment.
-- Skilled at simplifying complex topics for diverse audiences, with aspirations in teaching and public engagement.
-- Thrives on connecting with like-minded individuals and exploring meaningful projects.
+
 

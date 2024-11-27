@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-10-11T12:57:27.400+05:30","updated":"2024-11-23T01:26:27.415+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-11-23T16:36:39.873+05:30","updated":"2024-11-23T01:26:27.000+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Opportunities/Opportunities\|Opportunities]]
