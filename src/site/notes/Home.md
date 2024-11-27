@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-11-27T11:52:43.184+05:30","updated":"2024-11-27T12:19:10.680+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-11-27T11:52:43.184+05:30","updated":"2024-11-27T12:43:26.156+05:30"}
 ---
 
 This is the only game, that is; life. 
@@ -9,4 +9,4 @@ All cascading nodal pages have been linked here. Look right, you'll find a Linke
 
 About Me (professionally) - [[01 - Main Tags/Mental/Career/Resume or CV\|Resume or CV]]
 Stuff I'm currently working on - the major thing I'm working on is currently under wraps, so this section is to come.
-Books and articles - as soon as I figure out how to integrate the shit into Obsidian.
+Books and articles - as soon as I figure out how to integrate the shit into Obsidian. For now, check out [[01 - Main Tags/Mental/Learning Interests/Books/Books\|Books]] or my [Goodreads](https://www.goodreads.com/user/show/135390700-nithilan)
