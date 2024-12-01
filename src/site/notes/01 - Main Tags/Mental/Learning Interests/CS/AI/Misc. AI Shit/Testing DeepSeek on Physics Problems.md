@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/ai/misc-ai-shit/testing-deep-seek-on-physics-problems/","created":"2024-11-23T16:36:40.813+05:30","updated":"2024-11-22T16:17:13.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/cs/ai/misc-ai-shit/testing-deep-seek-on-physics-problems/","created":"2024-11-21T16:36:35.206+05:30","updated":"2024-11-22T16:17:13.787+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/CS/AI/AI\|AI]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/physical/excercise/running/notes-on-running-info-i-might-find-useful-if-i-restart-running/","created":"2024-11-18T16:47:50.680+05:30","updated":"2024-10-11T00:30:19.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/physical/excercise/running/notes-on-running-info-i-might-find-useful-if-i-restart-running/","created":"2024-10-11T12:57:27.598+05:30","updated":"2024-10-11T00:30:19.000+05:30"}
 ---
 
 [[01 - Main Tags/Physical/Excercise/Running/Running\|Running]]

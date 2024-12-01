@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-11-23T16:36:39.873+05:30","updated":"2024-11-23T01:26:27.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-10-11T12:57:27.400+05:30","updated":"2024-12-01T20:40:05.380+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Opportunities/Opportunities\|Opportunities]]
@@ -20,6 +20,8 @@
 - [The Awesome Foundation Microgrants](https://www.awesomefoundation.org/en/about_us) - The Awesome Foundation gives $1000 micro-grants monthly for diverse "awesome" projects. Chapters are autonomous and globally supported by volunteers.
 - [Unitary Fund](https://unitary.fund/) - Unitary Fund offers $4K cash microgrants for quantum tech projects globally, with no organizational affiliation required. They support open-source software, education, sensors, and more. The application is simple, needing a short form and a two-minute video. - Rolling applications until all grant money is allocated.
 - [The CLR Fund](https://longtermrisk.org/grantmaking/) - The CLR Fund supports projects reducing long-term suffering, with $410,872 currently available. It prioritizes research on s-risks, open to individuals and organizations worldwide. Grants are evaluated on a rolling basis. Past grants include various academic and research stipends.
+- [Bagel Fund](https://bagel.fund/) - A tech-savvy friend group providing microgrants ($100-$500) to ambitious young builders developing innovative projects. Past grantees have tackled cutting-edge ideas in robotics, AI, renewable energy, biotech, and more. Simple application process and non-dilutive support for creators under 21.
+- [Merge Microgrants](https://odteam.notion.site/Merge-Grant-7eadfac121ae45328c80cd3a733fb2ab) - The **Merge Grant** offers $50 to $1,000 in funding and support to individuals pursuing innovative projects, with no equity or future investment required. Run by Merge Club members, the grant is open to all, supporting projects across various sectors (hardware, software, research, etc.). Recipients receive perks like hosting credits and an invite to Merge Club. The program is designed to help ambitious builders progress without financial barriers.
 
 ## Social Work Type Stuff
 Social work grants fund initiatives aimed at addressing specific global issues, such as environmental sustainability, climate change, and other philanthropic endeavours, to make the world a better place.
@@ -64,7 +66,8 @@ Social work grants fund initiatives aimed at addressing specific global issues, 
 - [The Included VC Fellowship](https://included.vc/) - The Included VC Fellowship is a fully funded, global, 5-month program providing diverse individuals with VC education and mentorship. It requires a 15+ hour weekly commitment and targets aspiring VCs from non-traditional backgrounds. Applications close on August 12, 2024.
 - [Interact](https://joininteract.com/) - Interact is a global community for mission-driven technologists aged 18-23. It offers a fully-sponsored summer retreat in Northern California, along with discussion groups, funded research forums, and frequent online events. Founded in 2012, it supports social impact and collaborative growth.
 - [Rise](https://www.risefortheworld.org/) - Rise, a Schmidt Futures and Rhodes Trust initiative, supports promising 15-17-year-olds with scholarships, mentorship, and career development to address global issues, fostering a lifetime of service and innovation.
-- [[01 - Main Tags/Mental/Career/Opportunities/Nautilus\|Nautilus]]
+- [MARS](https://www.cambridgeaisafety.org/mars) - The **MARS Program** by Cambridge AI Safety Hub pairs aspiring researchers with mentors for AI safety projects in technical or policy domains. It begins with an in-person intensive week, followed by remote work with mentorship, support, and opportunities for publication. Open to students and professionals, it values motivation and potential over experience.
+- [8VC Fellowship](https://www.8vc.com/fellowships#about) - The **8VC Fellowship** is a 3-month immersive internship for undergraduates, placing them at innovative startups within the 8VC portfolio. Fellows work closely with world-class founders and engineers, solving impactful technical challenges.
 
 ## Competitions
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/math/calculus/learning-calculus-or-the-mit-18-01-sc-project/","created":"2024-11-18T16:47:42.504+05:30","updated":"2024-10-11T00:33:07.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/math/calculus/learning-calculus-or-the-mit-18-01-sc-project/","created":"2024-10-11T12:57:27.524+05:30","updated":"2024-10-11T00:33:07.000+05:30"}
 ---
 
 

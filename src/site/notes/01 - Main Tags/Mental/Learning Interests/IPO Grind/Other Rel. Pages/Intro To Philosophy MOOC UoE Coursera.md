@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/ipo-grind/other-rel-pages/intro-to-philosophy-mooc-uo-e-coursera/","created":"2024-11-18T16:47:41.612+05:30","updated":"2024-10-11T00:33:24.000+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/learning-interests/ipo-grind/other-rel-pages/intro-to-philosophy-mooc-uo-e-coursera/","created":"2024-10-11T12:57:27.507+05:30","updated":"2024-11-22T22:17:00.337+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Learning Interests/IPO Grind/IPO (Philosophy)\|IPO (Philosophy)]]
