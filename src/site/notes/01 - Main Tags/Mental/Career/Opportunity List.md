@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-10-11T12:57:27.400+05:30","updated":"2024-12-01T20:40:05.380+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/opportunity-list/","created":"2024-10-11T12:57:27.400+05:30","updated":"2024-12-08T12:02:05.369+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Opportunities/Opportunities\|Opportunities]]
@@ -68,6 +68,8 @@ Social work grants fund initiatives aimed at addressing specific global issues, 
 - [Rise](https://www.risefortheworld.org/) - Rise, a Schmidt Futures and Rhodes Trust initiative, supports promising 15-17-year-olds with scholarships, mentorship, and career development to address global issues, fostering a lifetime of service and innovation.
 - [MARS](https://www.cambridgeaisafety.org/mars) - The **MARS Program** by Cambridge AI Safety Hub pairs aspiring researchers with mentors for AI safety projects in technical or policy domains. It begins with an in-person intensive week, followed by remote work with mentorship, support, and opportunities for publication. Open to students and professionals, it values motivation and potential over experience.
 - [8VC Fellowship](https://www.8vc.com/fellowships#about) - The **8VC Fellowship** is a 3-month immersive internship for undergraduates, placing them at innovative startups within the 8VC portfolio. Fellows work closely with world-class founders and engineers, solving impactful technical challenges.
+- RSI
+- 
 
 ## Competitions
 
