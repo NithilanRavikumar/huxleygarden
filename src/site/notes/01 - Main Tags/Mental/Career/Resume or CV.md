@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","created":"2024-11-25T21:48:13.698+05:30","updated":"2024-11-26T18:02:49.655+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","created":"2024-11-25T21:48:13.698+05:30","updated":"2025-02-03T14:27:40.660+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Career\|Career]]
@@ -57,18 +57,23 @@ Over the past few months, I’ve taken a polymathic approach to learning and wor
 - **InPhO 2023–24**: State Rank 5, awarded a gold medal and a copy of *Halliday, Resnick, Krane*.
 - **Member, Secondary Indian IPhO Team** (2023)
 - **IMOTC Camper** (*Indian Math Olympiad Training Camp*, 2022)
-- **ISRO Training Program Invitee**: Selected in 2019 and 2023; achieved *4th and 2nd place out of 30 students*.
+- **ISRO Training Program ([[YUVIKA\|YUVIKA]]) Invitee**: Selected in 2019 and 2023; achieved *4th and 2nd place out of 30 students*.
+- **NTSE Scholar** (Date should be 2021 at latest, but you weren't in grade 10 then.)
+- [[SOF Medals\|SOF Medals]]
 
 ---
 
 ## **Quizzing Achievements**
-- Recognized as one of India’s top quizzers:
-  - **PES Conquziztador Quiz**: Winner, INR 165,000 prize.
-  - **MAHE MIQ 2024**: Winner, INR 124,000 prize.
-  - **Indian Navy Quiz 2024**: Semifinalist, INR 100,000 prize.
-  - **TCS Inquizitive Quiz**: Semifinalist.
-  - **SNU INQUBE Quiz**: Regional Winner.
-- Selected for a week-long learning experience with Kevin Ashman, one of the world’s greatest quizzers, in 2023.
+Accidental quizzer. Read about everything as a kid—numismatics, wine investing, ancient civilizations. Turns out, that curiosity translated well.
+
+At one point, I was widely considered India’s best quizzer under 18—until a terrifying 13-year-old and a wave of rising stars dethroned me in late 2024. The fall-off in my final year of junior quizzing is rather infamous in the quizzing circuit here.
+
+- PES Conquziztador: Winner ('21, '22, '23) – INR 165,000
+- MAHE MIQ: Winner ('22, '23) – INR 124,000
+- Indian Navy Quiz: Winner ('21, '22) - 2(INR 150,000), Semifinalist ('23, '24) - 2(INR 65,000)
+- TCS Inquizitive: Semifinalist ('23, '24)
+- SNU INQUBE: Regional Winner ('23)
+- Selected for a week-long learning experience with Kevin Ashman, possibly the best in the game, in 2023.
 
 ---
 
