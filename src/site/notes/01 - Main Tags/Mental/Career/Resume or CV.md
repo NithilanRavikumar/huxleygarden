@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","created":"2024-11-25T21:48:13.698+05:30","updated":"2025-02-03T14:27:40.660+05:30"}
+{"dg-publish":true,"permalink":"/01-main-tags/mental/career/resume-or-cv/","tags":["gardenEntry"],"created":"2024-11-25T21:48:13.698+05:30","updated":"2025-02-04T21:24:36.401+05:30"}
 ---
 
 [[01 - Main Tags/Mental/Career/Career\|Career]]
